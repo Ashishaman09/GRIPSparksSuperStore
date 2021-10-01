@@ -1,2 +1,2 @@
-# GRIPSparks Data Analysis retsil SuperStore
+# GRIPSparks Data Analysis retail SuperStore
 Sparks Foundation Internship project
